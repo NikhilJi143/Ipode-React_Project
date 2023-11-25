@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -  Run 'npm start'.
 -  Enjoy :)
 
-### Deployment link - (https://ipodeapp.netlify.app/)   
+### Deployment link - https://ipodeapp.netlify.app/
 
 ## Available Scripts
 
