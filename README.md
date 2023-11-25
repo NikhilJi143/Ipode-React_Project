@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -  Run 'npm start'.
 -  Enjoy :)
 
-### Deployment link - https://mkipod.netlify.app/   
+### Deployment link - [[https://mkipod.netlify.app/](https://ipodeapp.netlify.app/)](https://ipodeapp.netlify.app/)   
 
 ## Available Scripts
 
